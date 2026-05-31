@@ -6,7 +6,7 @@ import pandas as pd
 DATASET_PATH = "dataset/genre"
 
 # 模式："global","middle","segment"
-PREPROCESS_MODE = "segment" 
+PREPROCESS_MODE = "global" 
 
 # segment 秒數
 SEGMENT_DURATION = 10
